@@ -310,3 +310,4 @@ def start_race():
 
 start_race()
 screen.exitonclick()
+screen.exitonclick()
